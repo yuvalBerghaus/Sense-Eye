@@ -1,6 +1,5 @@
 ![Sense-Eye](https://user-images.githubusercontent.com/65304080/215279708-06625f88-8716-4927-8cf1-c098db58e364.png)
-
-# Sense-Eye
+# Welcome to Sense-Eye system!
 
 ## Introduction
 Sense-Eye aims to help impaired vision 5-a-side football players to act more independently during the training and the game/training, analyse the training/game after the session, and receive feedback for self improvement.
