@@ -2,7 +2,7 @@
 # Introduction
 Sense-Eye aims to help impaired vision 5-a-side football players to act more independently during the training and the game/training, analyse the training/game after the session, and receive feedback for self improvement.
 
-# System Overview
+## System Overview
 Paralympic 5-a-side football was revealed as an event with the highest incidence of injury. There are more challenges impaired vision players encounter during the game and the training, such as  lack of feedback, difficulty in passing the ball, lack of spatial orientation in the field which makes it much harder to know the goal’s location. Sense-Eye provides a solution to address these problems and to make the football game more accessible for the impaired vision community.
 
 # Purpose
